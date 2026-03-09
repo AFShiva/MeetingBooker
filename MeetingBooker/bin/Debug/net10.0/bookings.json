@@ -1,18 +1,34 @@
 [
   {
-    "User": "Mette",
-    "Room": 2,
-    "Start": "2026-03-10T09:30:00",
-    "Duration": 3,
-    "End": "2026-03-10T12:30:00",
-    "IsExpired": false
-  },
-  {
     "User": "Jonas",
     "Room": 1,
     "Start": "2026-03-13T08:30:00",
     "Duration": 5,
     "End": "2026-03-13T13:30:00",
+    "IsExpired": false
+  },
+  {
+    "User": "Louise",
+    "Room": 1,
+    "Start": "2026-05-05T08:30:00",
+    "Duration": 3,
+    "End": "2026-05-05T11:30:00",
+    "IsExpired": false
+  },
+  {
+    "User": "Mette",
+    "Room": 1,
+    "Start": "2026-04-20T09:30:00",
+    "Duration": 4,
+    "End": "2026-04-20T13:30:00",
+    "IsExpired": false
+  },
+  {
+    "User": "Louise",
+    "Room": 2,
+    "Start": "2026-05-21T09:30:00",
+    "Duration": 4,
+    "End": "2026-05-21T13:30:00",
     "IsExpired": false
   }
 ]

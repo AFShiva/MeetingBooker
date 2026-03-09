@@ -12,3 +12,4 @@ C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\o
 C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\MeetingBooker.pdb
 C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\MeetingBooker.genruntimeconfig.cache
 C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\ref\MeetingBooker.dll
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\MeetingBooker.sourcelink.json
