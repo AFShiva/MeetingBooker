@@ -1,0 +1,18 @@
+[
+  {
+    "User": "Mette",
+    "Room": 2,
+    "Start": "2026-03-10T09:30:00",
+    "Duration": 3,
+    "End": "2026-03-10T12:30:00",
+    "IsExpired": false
+  },
+  {
+    "User": "Jonas",
+    "Room": 1,
+    "Start": "2026-03-13T08:30:00",
+    "Duration": 5,
+    "End": "2026-03-13T13:30:00",
+    "IsExpired": false
+  }
+]

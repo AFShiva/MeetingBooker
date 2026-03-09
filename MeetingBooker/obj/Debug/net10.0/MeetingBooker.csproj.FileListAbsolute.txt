@@ -1,0 +1,14 @@
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\bin\Debug\net10.0\MeetingBooker.exe
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\bin\Debug\net10.0\MeetingBooker.deps.json
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\bin\Debug\net10.0\MeetingBooker.runtimeconfig.json
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\bin\Debug\net10.0\MeetingBooker.dll
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\bin\Debug\net10.0\MeetingBooker.pdb
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\MeetingBooker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\MeetingBooker.AssemblyInfoInputs.cache
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\MeetingBooker.AssemblyInfo.cs
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\MeetingBooker.csproj.CoreCompileInputs.cache
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\MeetingBooker.dll
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\refint\MeetingBooker.dll
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\MeetingBooker.pdb
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\MeetingBooker.genruntimeconfig.cache
+C:\Users\LLFai\Desktop\Datamatiker\Dev_Datamatiker\MeetingBooker\MeetingBooker\obj\Debug\net10.0\ref\MeetingBooker.dll
